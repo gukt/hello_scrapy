@@ -17,3 +17,12 @@ __pycache__/
 
 # 如果使用Jupyter Notebook
 .ipynb_checkpoints/
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+
+# 操作系统文件
+.DS_Store  # macOS
+Thumbs.db  # Windows
