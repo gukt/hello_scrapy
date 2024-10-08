@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+
+# Python字节码文件
+*.pyc
+*.pyo
+*.pyd
+
+# 日志文件
+*.log
+
+# 本地配置文件
+.env
+
+# IDE相关文件（如果使用PyCharm）
+.idea/
+
+# 如果使用Jupyter Notebook
+.ipynb_checkpoints/
